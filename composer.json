@@ -1,0 +1,16 @@
+{
+    "name": "dinargab/otusapp",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dinargab\\Otusapp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DinarGab",
+            "email": "Dinar@reaspekt.ru"
+        }
+    ],
+    "require": {}
+}
