@@ -6,7 +6,7 @@ namespace Dinargab\Otusapp\Service;
 
 class WorldGreeter
 {
-    public function greet()
+    public function greet(): void
     {
         echo "Hello World!";
     }
