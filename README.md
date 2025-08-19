@@ -17,3 +17,5 @@ composer require dinargab/otusapp
 
 $greeter = new WorldGreeter();
 $greeter->greet(); //Hello World!
+
+```
